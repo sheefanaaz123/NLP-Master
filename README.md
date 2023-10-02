@@ -16,7 +16,7 @@ Embark on a journey to revolutionize Natural Language Processing (NLP) with the 
 - Follow existing formatting and contribute responsibly.
 
 **Join the Movement:**
-Let's create an unparalleled resource for the NLP community! Contribute to the NLP Toolkit Repository and be part of a global celebration of open source during Hacktoberfest.
+Let's create an unparalleled resource for the NLP community! Contribute to the NLP Master Repository and be part of a global celebration of open source during Hacktoberfest.
 
 
 ## Domains
