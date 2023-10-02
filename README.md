@@ -1,4 +1,5 @@
 # 🌐 **Welcome to the NLP Master Repository: Empower Natural Language Processing with Your Contributions!**
+![image](https://github.com/sheefanaaz123/NLP-Master/assets/97973932/9b41b941-95c4-4028-9889-5db051b915a7)
 
 Hello, passionate developers and NLP enthusiasts! 🚀
 
