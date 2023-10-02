@@ -2,7 +2,7 @@
 
 Hello, passionate developers and NLP enthusiasts! 🚀
 
-Embark on a journey to revolutionize Natural Language Processing (NLP) with the NLP Master Repository. As we embrace the power of collaboration, we invite you to contribute your expertise, creativity, and innovation to shape the future of NLP.
+Embark on a journey to revolutionize Natural Language Processing (NLP) with the NLP Master Repository. As we embrace the power of collaboration, I invite you to contribute your expertise, creativity, and innovation to shape the future of NLP.
 
 **Why Contribute?**
 - **Impactful Domains:** Choose from a diverse range of NLP domains, including text classification, sentiment analysis, machine translation, and more.
@@ -16,7 +16,7 @@ Embark on a journey to revolutionize Natural Language Processing (NLP) with the 
 - Follow existing formatting and contribute responsibly.
 
 **Join the Movement:**
-Let's create an unparalleled resource for the NLP community! Contribute to the NLP Master Repository and be part of a global celebration of open source during Hacktoberfest.
+Let's create an unparalleled resource for the NLP community! Contribute to the NLP Master Repository and be part of a global celebration of open source during **Hacktoberfest**.
 
 
 ## Domains
