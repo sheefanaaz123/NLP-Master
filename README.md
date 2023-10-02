@@ -87,7 +87,7 @@ Let's create an unparalleled resource for the NLP community! Contribute to the N
 If you have an NLP project that falls under any of the domains listed above, you can contribute by adding your project to the relevant category. Follow these steps:
 
 1. Fork the repository.
-2. Clone your forked repository: `git clone https://github.com/your-username/NLP-Toolkit.git`
+2. Clone your forked repository: `git clone https://github.com/your-username/NLP-Master.git`
 3. Create a new branch for your project: `git checkout -b feature/project-name`
 4. Add your project to the corresponding category in the README.
 5. Commit your changes: `git commit -m "Add project: Project Name"`
