@@ -94,16 +94,10 @@ If you have an NLP project that falls under any of the domains listed above, you
 6. Push to the branch: `git push origin feature/project-name`
 7. Submit a pull request.
 
-## Project Directory Structure
-
-Organize your project within the repository using the following structure:
-
-Ensure that your project has a dedicated README.md file that provides details about your project, how to run it, and any other relevant information.
-
 ## Guidelines for Contributions
-
-- Ensure your project is placed in the correct domain category.
-- Include a clear and concise README within your project folder.
+- Make a directory ( Ex. Twitter Sentiment Analysis ) inside the respective folder (Ex. Sentiment Analysis ).
+- Add all required files into the dirctory (Ex. Datasets, python files, or notebook).
+- Include a clear and concise README within your project folder (Ex.  Twitter Sentiment Analysis ) that provides details about your project, how to run it, and any other relevant information..
 - Follow the existing formatting and structure.
 
 ## License
