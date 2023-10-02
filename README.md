@@ -53,7 +53,7 @@ Ensure that your project has a dedicated README.md file that provides details ab
 
 ## License
 
-This repository and all projects within it are licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This repository and all projects within it are licensed under the MIT License.
 
 Happy contributing!
 
