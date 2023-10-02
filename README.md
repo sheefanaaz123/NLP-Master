@@ -43,3 +43,18 @@ If you have an NLP project that falls under any of the domains listed above, you
 
 Organize your project within the repository using the following structure:
 
+Ensure that your project has a dedicated README.md file that provides details about your project, how to run it, and any other relevant information.
+
+## Guidelines for Contributions
+
+- Ensure your project is placed in the correct domain category.
+- Include a clear and concise README within your project folder.
+- Follow the existing formatting and structure.
+
+## License
+
+This repository and all projects within it are licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+Happy contributing!
+
+
