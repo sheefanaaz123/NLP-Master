@@ -108,8 +108,7 @@ This repository and all projects within it are licensed under the MIT License.
 
 ## Contributors
 
-- ![Sheefa Naaz](![Uploading IMG_20230606_201830.jpg…]()
-)
+- ![Sheefa Naaz](![Uploading IMG_20230606_201830.jpg…])
   - [Your GitHub Profile](https://github.com/sheefanaaz123)
 
 Happy contributing!
