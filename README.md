@@ -105,6 +105,8 @@ If you have an NLP project that falls under any of the domains listed above, you
 
 This repository and all projects within it are licensed under the MIT License.
 
+## Contributor
+[Sheefa Naaz](https://github.com/sheefanaaz123)
 Happy contributing!
 
 
