@@ -12,12 +12,12 @@
 6. Push to your forked repository:
 7. Open a pull request to the main repository.
 
-## Guidelines for Contributions
 
-- Ensure your project is placed in the correct domain category.
-- Provide a clear and concise README within your project folder.
+## Guidelines for Contributions
+- Make a directory ( Ex. Twitter Sentiment Analysis ) inside the respective folder (Ex. Sentiment Analysis ).
+- Add all required files into the dirctory (Ex. Datasets, python files, or notebook).
+- Include a clear and concise README within your project folder (Ex.  Twitter Sentiment Analysis ) that provides details about your project, how to run it, and any other relevant information..
 - Follow the existing formatting and structure.
-- If you are making changes to an existing project, clearly state the improvements made.
 
 ## Code of Conduct
 
